@@ -1,5 +1,5 @@
 # BaiTap_Buoi1
 
-#testrepo
+# testrepo
 ## editing
 its a markdown file in the reposibility
